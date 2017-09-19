@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RockPaperScissors</string>
+    <string name="rock_button">Rock</string>
+    <string name="paper_button">Paper</string>
+    <string name="scissors_button">Scissors</string>
+    <string name="result_text"/>
+    <string name="result_activity_title">AND THE RESULT IS. . .</string>
+    <string style="font-family: Arial, text-align: center" name="rules_text">Welcome to the Rock-Paper-Scissors app desgined and written by Robb with a little minor bits of help from Danyard.  You should know the rules to rock paper scissors by now, we\'ve made this app 3 times. <br>Have fun!!!</br></string>
+</resources>
